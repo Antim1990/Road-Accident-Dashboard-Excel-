@@ -1,4 +1,5 @@
 # Road-Accident-Dashboard-Excel-
+<img src="https://github.com/Antim1990/Road-Accident-Dashboard-Excel-/blob/master/road%20accident.png">
 Sure, here is a README file you can use for your road accident project in Excel uploaded to GitHub:
 
 Road Accident Dashboard in Excel
